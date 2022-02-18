@@ -52,7 +52,6 @@ public class Main {
 
         do {
             inputNumber = Support.safeReadInt();
-            //System.out.print(inputNumber + ", ");
             if (inputNumber > 0) {
                 inputSumm = inputSumm + inputNumber;
             }
